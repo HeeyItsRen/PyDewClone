@@ -6,7 +6,7 @@ The game is pretty simple to run
 
 please download and extract the files to any desired location (Just remember where)
 
-You may run the main.py in the 'Code' Folder using any CLI (Command Line Interface) of your choice
+You may run the main.py in the '**Code**' Folder using any CLI (Command Line Interface) of your choice
 
 ```
 py main.py
